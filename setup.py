@@ -9,9 +9,6 @@ setup(
     author_email='dan.wagner@fau.de',
     license='BSD 2-clause',
     packages=['snowflake'],
-    install_requires=['turtle',
-                      'numpy',                     
-                      ],
 
     classifiers=[
         'Development Status :: 1 - Planning',
